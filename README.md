@@ -1,6 +1,4 @@
 <h1 align="center">Hii 👋, I'm Aniruddha Yadav</h1>
-<h3 align="center">Crafting Smart Apps & Systems Across iOS, Android, and the Web</h3>
-
 
 - 📫 How to reach me **yadavaniruddha700@gmail.com**
 
