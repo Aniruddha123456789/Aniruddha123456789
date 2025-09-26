@@ -2,10 +2,6 @@
 <h3 align="center">Crafting Smart Apps & Systems Across iOS, Android, and the Web</h3>
 
 
-- 🌱 I’m currently learning **SwiftUI, Firebase**
-
--
-
 - 📫 How to reach me **yadavaniruddha700@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
