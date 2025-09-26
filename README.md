@@ -1,15 +1,10 @@
 <h1 align="center">Hii 👋, I'm Aniruddha Yadav</h1>
 <h3 align="center">Crafting Smart Apps & Systems Across iOS, Android, and the Web</h3>
 
-- 🔭 I’m currently working on **AI Smart Pendant: A Wearable Conversational Memory Assistant With AI-Based Recall**
 
 - 🌱 I’m currently learning **SwiftUI, Firebase**
 
-- 👯 I’m looking to collaborate on **End-to-end App Projects (iOS/Android) or AI + App Integration Ideas**
-
-- 🤝 I’m looking for help with **Firebase Integration in Swift or BLE Communication in Wearables**
-
-- 💬 Ask me about **Swift, Node.js, SQL, DSA**
+-
 
 - 📫 How to reach me **yadavaniruddha700@gmail.com**
 
